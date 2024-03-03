@@ -1,0 +1,138 @@
+.component {
+  background-color: #ffffff;
+  height: 72px;
+  position: relative;
+  width: 1440px;
+}
+
+.component .u-dash {
+  color: transparent;
+  font-family: "League Spartan", Helvetica;
+  font-size: 48px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -40px;
+  white-space: nowrap;
+  width: 140px;
+}
+
+.component .text-wrapper {
+  color: #004aad;
+}
+
+.component .span {
+  color: #000000;
+}
+
+.component .other-links {
+  align-items: center;
+  display: flex;
+  gap: 15px;
+  height: 70px;
+  justify-content: center;
+  left: 1144px;
+  padding: 5px 10px;
+  position: absolute;
+  top: 0;
+  width: 296px;
+}
+
+.component .text-wrapper-2 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 89px;
+}
+
+.component .ellipse {
+  background-color: #e88484;
+  border-radius: 22.5px;
+  height: 45px;
+  position: relative;
+  width: 45px;
+}
+.component .profile {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+}
+
+.component .profile-2 {
+  color: #10153f;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.component .frame {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  height: 22px;
+  left: 641px;
+  position: absolute;
+  top: 25px;
+  width: 159px;
+}
+
+.component .text-wrapper-3 {
+  color: var(--dark-2);
+  font-family: "League Spartan", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component .text-wrapper-4 {
+  color: var(--dark-2);
+  font-family: "League Spartan", Helvetica;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: -25px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component .rectangle-2 {
+  background-color: #004aad;
+  height: 2px;
+  left: -4px;
+  position: absolute;
+  top: 22px;
+  width: 70px;
+}
+.button {
+  background :none;
+  border: none;
+  cursor: pointer;
+
+}

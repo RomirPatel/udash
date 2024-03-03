@@ -1,0 +1,128 @@
+.rewards {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.rewards .div-3 {
+  background-color: #ffffff;
+  height: 1945px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.rewards .overlap-group {
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.rewards .component-1 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.rewards .rectangle-3 {
+  background-color: #004aad;
+  height: 2px;
+  left: 739px;
+  position: absolute;
+  top: 48px;
+  width: 86px;
+}
+
+.rewards .img {
+  height: 148px;
+  left: 1411px;
+  position: absolute;
+  top: 444px;
+  width: 145px;
+}
+
+.rewards .rectangle-7 {
+  background-image: url(../../../static/img/rectangle-9.png) !important;
+  left: 238px !important;
+  position: absolute !important;
+  top: 198px !important;
+}
+
+.rewards .rectangle-instance {
+  background-image: url(../../../static/img/rectangle-8.png) !important;
+  left: 574px !important;
+  position: absolute !important;
+  top: 198px !important;
+  width: 292px !important;
+}
+
+.rewards .rectangle-7-instance {
+  background-image: url(../../../static/img/rectangle-9.png) !important;
+  left: 909px !important;
+  position: absolute !important;
+  top: 198px !important;
+}
+
+.rewards .rectangle-4 {
+  height: 148px;
+  left: 1411px;
+  position: absolute;
+  top: 777px;
+  width: 145px;
+}
+
+.rewards .rectangle-5 {
+  height: 148px;
+  left: 1411px;
+  position: absolute;
+  top: 1110px;
+  width: 145px;
+}
+
+.rewards .design-component-instance-node {
+  background-image: url(../../../static/img/rectangle-13.png) !important;
+  left: 238px !important;
+  position: absolute !important;
+  top: 531px !important;
+}
+
+.rewards .rectangle-6 {
+  background-image: url(../../../static/img/rectangle-17.png) !important;
+  left: 238px !important;
+  position: absolute !important;
+  top: 864px !important;
+}
+
+.rewards .rectangle-8 {
+  background-image: url(../../../static/img/rectangle-12.png) !important;
+  left: 574px !important;
+  position: absolute !important;
+  top: 531px !important;
+  width: 292px !important;
+}
+
+.rewards .rectangle-9 {
+  background-image: url(../../../static/img/rectangle-16.png) !important;
+  left: 574px !important;
+  position: absolute !important;
+  top: 864px !important;
+  width: 292px !important;
+}
+
+.rewards .rectangle-10 {
+  background-image: url(../../../static/img/rectangle-13.png) !important;
+  left: 909px !important;
+  position: absolute !important;
+  top: 531px !important;
+}
+
+.rewards .rectangle-11 {
+  background-image: url(../../../static/img/rectangle-17.png) !important;
+  left: 909px !important;
+  position: absolute !important;
+  top: 864px !important;
+}
