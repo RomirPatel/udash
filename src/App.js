@@ -4,7 +4,6 @@ import { Home } from "./screens/Home";
 import Contact from './Contact';
 
 const App = () => {
-  
   return (
     <Router>
       <div>
