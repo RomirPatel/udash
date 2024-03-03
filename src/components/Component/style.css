@@ -14,7 +14,7 @@
   letter-spacing: 0;
   line-height: normal;
   position: absolute;
-  top: 13px;
+  top: -40px;
   white-space: nowrap;
   width: 140px;
 }
@@ -33,11 +33,23 @@
   gap: 15px;
   height: 70px;
   justify-content: center;
-  left: 1193px;
+  left: 1144px;
   padding: 5px 10px;
   position: absolute;
-  top: 2px;
+  top: 0;
   width: 296px;
+}
+
+.component .text-wrapper-2 {
+  color: #000000;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 27px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 89px;
 }
 
 .component .ellipse {
@@ -47,7 +59,6 @@
   position: relative;
   width: 45px;
 }
-
 .component .profile {
   align-items: center;
   display: inline-flex;
@@ -58,7 +69,7 @@
   position: relative;
 }
 
-.component .div {
+.component .profile-2 {
   color: #10153f;
   font-family: "Poppins", Helvetica;
   font-size: 20px;
@@ -82,7 +93,7 @@
   width: 159px;
 }
 
-.component .text-wrapper-2 {
+.component .text-wrapper-3 {
   color: var(--dark-2);
   font-family: "League Spartan", Helvetica;
   font-size: 24px;
@@ -96,7 +107,7 @@
   width: fit-content;
 }
 
-.component .text-wrapper-3 {
+.component .text-wrapper-4 {
   color: var(--dark-2);
   font-family: "League Spartan", Helvetica;
   font-size: 24px;
@@ -118,4 +129,10 @@
   position: absolute;
   top: 22px;
   width: 68px;
+}
+.button {
+  background :none;
+  border: none;
+  cursor: pointer;
+
 }
