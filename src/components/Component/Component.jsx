@@ -15,13 +15,13 @@ export const Component = ({ className, hasRectangle = true }) => {
         <div className="text-wrapper-2"> 1500 pts</div>
         <div className="ellipse" />
         <div className="profile">
-          <div className="profile-2">ktrl-g</div>
+          <div className="profile-2">Profile</div>
         </div>
       </div>
       <div className="frame">
         <div className="text-wrapper-2">Home</div>
 
-    
+   
         <button class="button"> <div className="text-wrapper-2">Rewards</div></button> 
         {hasRectangle && <div className="rectangle-2"/>}
       </div>

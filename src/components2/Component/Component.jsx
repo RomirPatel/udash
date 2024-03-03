@@ -13,7 +13,7 @@ export const Component = ({ className, hasRectangle = true }) => {
         <div className="div">1500 pts</div>
         <div className="ellipse" />
         <div className="profile">
-          <div className="profile-2">ktrl-g</div>
+          <div className="profile-2">Profile</div>
         </div>
       </div>
       <div className="frame">

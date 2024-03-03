@@ -1,10 +1,11 @@
 .home {
   background-color: #ffffff;
-  display: flex;
+
   flex-direction: row;
   justify-content: center;
   width: 100%;
 }
+
 
 .home .div-2 {
   background-color: #ffffff;
@@ -23,11 +24,12 @@
 }
 
 .home .overlap {
-  height: 334px;
+  height: 30px;
   left: -70px;
   position: absolute;
   top: 154px;
   width: 1117px;
+
 }
 
 .home .text-wrapper-5 {

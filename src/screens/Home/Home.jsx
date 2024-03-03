@@ -5,7 +5,7 @@ import "./style.css";
 
 export const Home = () => {
   return (
-    <div className="home">
+    <div className="home ">
       <div className="div-2">
         <img className="img" alt="Rectangle" src="https://c.animaapp.com/RY7ErzkH/img/rectangle-6@2x.png" />
         <div className="overlap">
