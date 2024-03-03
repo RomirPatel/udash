@@ -2,6 +2,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import "./style.css";
+import { Link } from "react-router-dom";
 
 
 export const Component = ({ className, hasRectangle = true }) => {
@@ -19,10 +20,13 @@ export const Component = ({ className, hasRectangle = true }) => {
         </div>
       </div>
       <div className="frame">
+      <Link to="/">
         <div className="text-wrapper-2">Home</div>
-
-   
-        <button class="button"> <div className="text-wrapper-2">Rewards</div></button> 
+        </Link>
+      
+        <Link to="/rewards">
+        <div className="text-wrapper-2">Rewards</div>
+        </Link>
         {hasRectangle && <div className="rectangle-2"/>}
       </div>
     </div>

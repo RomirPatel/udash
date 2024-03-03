@@ -1,6 +1,6 @@
 import React from "react";
-import { Component } from "/Users/romirpatel/Downloads/udash/src/components2/Component";
-import { Rectangle } from "/Users/romirpatel/Downloads/udash/src/components2/Rectangle";
+import { Component } from "../../../components2/Component/Component";
+import { Rectangle } from "../../../components2/Rectangle/Rectangle"
 import "./style.css";
 
 export const Rewards = () => {
@@ -11,7 +11,7 @@ export const Rewards = () => {
           <Component className="component-1" hasRectangle={false} />
           <div className="rectangle-3" />
         </div>
-    
+        
         <Rectangle className="rectangle-7" />
         <Rectangle className="rectangle-instance" />
         <Rectangle className="rectangle-7-instance" />

@@ -50,6 +50,7 @@
   line-height: normal;
   position: relative;
   width: 89px;
+  background: none;
 }
 
 .component .ellipse {
